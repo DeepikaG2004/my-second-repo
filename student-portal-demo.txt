@@ -1,0 +1,5 @@
+my name: Deepika
+course: bsc-cs
+suc code:2361530316
+rool no:55
+college: Aditya womens degree college
